@@ -1,7 +1,7 @@
 import React from "react";
 
-const spectrogram = () => {
+const Spectrogram = () => {
   return <div>spectrogram</div>;
 };
 
-export default spectrogram;
+export default Spectrogram;
