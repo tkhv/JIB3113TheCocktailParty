@@ -4,8 +4,8 @@ import Spectrogram from "../components/spectrogram";
 function Homepage() {
   return (
     <div>
-      <Spectrogram />
       <Info_bar />
+      <Spectrogram />
     </div>
   );
 }
